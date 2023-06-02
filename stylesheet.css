@@ -1,0 +1,71 @@
+  * {
+      box-sizing: border-box;
+    }
+    
+      body {
+      background-color: green;
+
+  }
+
+    img {
+      width: 200px;
+      height: 150px;    
+      object-fit: cover;
+      border: 3px solid green;
+      padding: 10px;
+    }
+
+    .img1 {
+      text-align: center;
+    }
+
+    table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+    
+    table {
+      width: 600px;
+      background-color: lightgreen;
+      margin:0 auto;
+    }
+
+  td {
+      vertical-align: top;
+      padding: 10px
+  }
+
+  th {
+      padding: 10px
+  }
+
+  .caption1 {
+      color: white;
+      font-size: 1.5em;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      text-align: center;
+  }
+  
+  p {
+      text-align: left;
+  }
+
+  .name {
+      text-align: left;
+      font-weight: normal;
+  }
+
+  a {
+      text-decoration: none;
+      color: black;
+  }
+
+  a:hover {
+    color: blueviolet;
+  }
+
+.caption2 {
+      color:white;
+      text-align: center;
+  }
